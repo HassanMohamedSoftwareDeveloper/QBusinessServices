@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Domain\" />
+    <Folder Include="Specifications\" />
   </ItemGroup>
 
 </Project>
